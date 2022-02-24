@@ -1,0 +1,1 @@
+export const base_url = "http://cloudart.com.au:3234/api/admin"

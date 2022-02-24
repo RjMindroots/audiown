@@ -1,0 +1,19 @@
+/*================================================================================
+	Item Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+@import '../../../node_modules/flatpickr/dist/flatpickr.min.css';
+.maxWidth40 {max-width: 60px;}
+.mrMin {margin-right: 8px;}
+.fileImage:hover {cursor: pointer!important;}
+iframe{display: none;}
+input#image.updateProfile {position: absolute;top: 0;left: 0;height: 100%;width: 100%;opacity: 0;}
+img.updateImage {height: 230px;width: 200px;object-fit: cover;}
+.flatpickr-calendar.hasTime .flatpickr-time {height: 40px;border-top: 1px solid #20222c;}
